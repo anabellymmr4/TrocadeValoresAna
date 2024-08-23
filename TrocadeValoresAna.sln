@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrocadeValores", "TrocadeValores\TrocadeValores.csproj", "{635A92C8-F60D-4E50-A37D-A95884E8223A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulasWindowsForms", "AulasWindowsForms\AulasWindowsForms.csproj", "{1D7E2F60-1DC9-47A3-818D-A9DFABB9B184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635A92C8-F60D-4E50-A37D-A95884E8223A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635A92C8-F60D-4E50-A37D-A95884E8223A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635A92C8-F60D-4E50-A37D-A95884E8223A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635A92C8-F60D-4E50-A37D-A95884E8223A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7E2F60-1DC9-47A3-818D-A9DFABB9B184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7E2F60-1DC9-47A3-818D-A9DFABB9B184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7E2F60-1DC9-47A3-818D-A9DFABB9B184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7E2F60-1DC9-47A3-818D-A9DFABB9B184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A0EB25-D1BB-42F4-A9B7-5D48736E035B}
+	EndGlobalSection
+EndGlobal
